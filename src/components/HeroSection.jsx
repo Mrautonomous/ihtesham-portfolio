@@ -28,11 +28,11 @@ const HeroSection = () => {
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg lg:text-xl mb-6">
             Welcome to the portfolio website of a seasoned web developer. Here,
-            you'll find a showcase of my work, demonstrating proficiency in
+            you will find a showcase of my work, demonstrating proficiency in
             HTML, CSS, JavaScript, React.js, Next.js, and Node.js. From sleek
             and modern designs to powerful web applications, I specialize in
             creating engaging digital experiences. Take a look at my portfolio
-            to see examples of my projects, and let's discuss how I can help
+            to see examples of my projects, and lets discuss how I can help
             bring your ideas to life online.
           </p>
 
