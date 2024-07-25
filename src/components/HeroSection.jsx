@@ -17,7 +17,7 @@ const HeroSection = () => {
               sequence={[
                 // Same substring at the start will only be typed out once, initially
                 "Ihtesham Ahmad",
-                1000, // wait 1s before replacing "Mice" with "Hamsters"
+                1000,
                 "a Web Developer",
                 1000,
               ]}
@@ -28,16 +28,16 @@ const HeroSection = () => {
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg lg:text-xl mb-6">
             Welcome to the portfolio website of a seasoned web developer. Here,
-            you'll find a showcase of my work, demonstrating proficiency in
+            you will find a showcase of my work, demonstrating proficiency in
             HTML, CSS, JavaScript, React.js, Next.js, and Node.js. From sleek
             and modern designs to powerful web applications, I specialize in
             creating engaging digital experiences. Take a look at my portfolio
-            to see examples of my projects, and let's discuss how I can help
+            to see examples of my projects, and lets discuss how I can help
             bring your ideas to life online.
           </p>
 
           <div className="rounded-full place-self-center shadow-slate-500 shadow-lg bg-[#181818] w-[250px] h-[250px] lg:w-[250px] lg:h[300px] relative">
-            <img
+            <Image
               className="mx-auto rounded-full absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 shadow-purple-400 shadow-xl"
               src="/images/DP2.png"
               alt="DP"
