@@ -17,7 +17,7 @@ const EmailSection = () => {
           <Link href="https://github.com/Mrautonomous">
             <Image
               className="rounded-md bg-white"
-              src="/images/giticon.png"
+              src="/images/GitIcon.png"
               width={50}
               height={50}
             />
