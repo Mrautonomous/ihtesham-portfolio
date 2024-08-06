@@ -8,7 +8,7 @@ import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col bg-indigo-950">
+    <main className="flex min-h-screen flex-col bg-[#181818]">
       <Navbar />
       <div className="absolute right-0 top-14 sm:top-4 mix-blend-color-dodge opacity-70">
         <Image src="/images/top-left-img.png" alt="" width={400} height={400} />
